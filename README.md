@@ -1,2 +1,2 @@
 # Aulas
-Repositório dedicado aos vídeo-aulas no YouTube.
+Repositório dedicado as vídeo-aulas no YouTube.
